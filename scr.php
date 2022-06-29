@@ -37,7 +37,8 @@
     <input type="radio" name="voto" id="nao" value="nao"/>
     <label for="nao"> Não </label><br/>
     </fieldset>
-    <input type="submit" value="Enviar"/>   
+    <input type="submit" value= "Enviar"/>
+       
 </form>
 
 </div>
