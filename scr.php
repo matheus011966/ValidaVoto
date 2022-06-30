@@ -8,7 +8,7 @@
 </head>
 <body>
 <div>
-    <form method = "POST" action="scr.php">
+    <form method = "POST" action="_modelophp.php">
     <?php
     $ano = $_GET['Numeros'];
     $idade = date('Y') - $ano ; 
@@ -32,12 +32,8 @@
     <br/>
     <br/>
     <fieldset><legend>Deseja votar agora?</legend>
-    <input type="radio" name="voto" id="sim" value="sim" checked/>
-    <label for="sim"> SIM </label><br/>
-    <input type="radio" name="voto" id="nao" value="nao"/>
-    <label for="nao"> Não </label><br/>
-    </fieldset>
-    <input type="submit" value= "Enviar"/>
+    <a href = "index.php">Voltar</a>
+    <input type="submit" value= "Votar"/>
        
 </form>
 

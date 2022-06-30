@@ -13,7 +13,7 @@
     <br/>
     <form method = "GET" action="scr.php">
             
-    <input type="number" name="Numeros" min="1920" max= "2022"/>
+    <input type="number" name="Numeros" min="1920" max= "2022" required />
     <input type="submit" value="calcular elegibilidade de voto"/>
 
     </form>
