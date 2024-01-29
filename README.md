@@ -1,3 +1,3 @@
 # ValidaVoto
 
-Projeto que Visa Verificar a ideade do usuario e validar se ele é elegivel obregatóriamente ao voto ou não, podendo ainda validar se ele é elegivel de forma obrigatória ou opcional 
+Projeto que Visa Verificar a idade do usuário e validar se ele é elegivel obrigatóriamente ao voto ou não, podendo ainda validar se ele é elegivel de forma opcional 
